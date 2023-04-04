@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Sabale</h1>
 <h3 align="center">A passionate Geek from India...</h3>
-<img align="Right" alt= "cooding" width=" 500" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogramming&psig=AOvVaw3yvdJ975BhtsH16wzABx-x&ust=1680666216338000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMDm27Goj_4CFQAAAAAdAAAAABAE">
+<img align="Right" alt= "cooding" width=" 500" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogramming&psig=AOvVaw3yvdJ975BhtsH16wzABx-x&ust=1680666216338000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMDm27Goj_4CFQAAAAAdAAAAABAE](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahuls7036&label=Profile%20views&color=0e75b6&style=flat" alt="rahuls7036" /> </p>
 
 <h3 align="left">Connect with me:</h3>
